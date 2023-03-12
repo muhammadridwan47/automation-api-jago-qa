@@ -1,5 +1,5 @@
 <h1 align="center">
-  implement Mocha + Chai JS
+  Testing API
 </h1>
 
 Running this project:
